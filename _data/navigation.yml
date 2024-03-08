@@ -1,14 +1,14 @@
 # main links
 main:
-  - title: "Home"
-   url: https://shhy01.github.io/
+   - title: "Home"
+     url: https://shhy01.github.io/
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About"
-   url: /about/
-  - title: "Categories"
-   url: /categories/
-  - title: "tags"
-   url: /tags/
+   - title: "About Me"
+     url: /aboutme/
+   - title: "Categories"
+     url: /categories/
+   - title: "tags"
+     url: /tags/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
